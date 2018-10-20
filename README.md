@@ -6,4 +6,3 @@ tying to get bit hands on in github
 
 sample:
 
-this is test
